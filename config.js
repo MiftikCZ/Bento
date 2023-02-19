@@ -100,20 +100,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Discord',
+					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Regex',
+					link: 'https://regexr.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'AUR',
+					link: 'https://aur.archlinux.org',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Monkeytype',
+					link: 'https://monkeytype.com',
 				},
 			],
 		},
@@ -134,8 +134,8 @@ const CONFIG = {
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com',
 				},
 			],
 		},
